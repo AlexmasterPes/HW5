@@ -26,7 +26,7 @@ public class HW4
             //Wiki
             $("#wiki-tab").click();
 
-            //SoftAssertions - наличие
+            //SoftAssertions - Наличие
             $("#wiki-body").shouldHave(text("Soft assertions"));
 
             //Открыть SoftAssertions
